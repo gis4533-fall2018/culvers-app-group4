@@ -9,6 +9,10 @@ body{
   font-size: 14px;
   overflow: hidden;
 }
+/*My custom header styles*/
+#header{
+    background-color: #005696;
+}
 
 /*Header Fonts*/
 @font-face {
