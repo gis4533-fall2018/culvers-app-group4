@@ -107,7 +107,9 @@ body{
   padding-right:25px;
 }
 #title{
-  font-family: "open_sanssemibold", sans-serif;
+  font-family: "Black Han Sans", sans-serif;
+   text-transform:uppercase; 
+    
   height:45px;
   padding-left:4px;
   padding-top:3px;
@@ -126,7 +128,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, form {
     margin: 0;
 }
 #subtitle{
-  font-family: "open_sansregular",sans-serif;
+  font-family: "Oswald",sans-serif;
   padding-left:4px;
   line-height: 18px;
   word-wrap:break-word;
