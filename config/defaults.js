@@ -42,7 +42,7 @@ define({
   "showLogo": true,
   "logoLink": "https://www.culvers.com/",
   "logo": "./images/culvers.png",
-  "showSocialIcons": true,
+  "showSocialIcons": null,
   "showSocialText": true,
   "socialLink": "https://storymaps.arcgis.com",
   "socialText": "A Story Map",
