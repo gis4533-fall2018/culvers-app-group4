@@ -107,10 +107,9 @@ body{
   padding-right:25px;
 }
 #title{
-  font-family: "Black Han Sans", sans-serif;
-   text-transform:uppercase; 
+  font-family: "Black Han Sans", sans-serif; 
     
-  height:45px;
+  height:35px;
   padding-left:4px;
   padding-top:3px;
   font-size: 24px;
