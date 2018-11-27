@@ -44,7 +44,7 @@ define({
   "logo": "./images/culvers.png",
   "showSocialIcons": null,
   "showSocialText": true,
-  //"socialLink": "https://storymaps.arcgis.com",
+  "socialLink": "https://github.com/gis4533-fall2018/culvers-app-group4",
   "socialText": "Created by Group 4",
   "headerHeight": "115",
   "legend": true,
